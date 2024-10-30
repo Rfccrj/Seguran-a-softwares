@@ -1,0 +1,26 @@
+Segurança de Software
+Dia 30-10-2024
+
+1- Cite 3 ativos relacionados à segurança da informação: 
+
+R: •  Firewalls: Dispositivos ou softwares que monitoram e controlam o tráfego de rede, ajudando a proteger sistemas e redes contra acessos não autorizados.
+•  Sistemas de Detecção e Prevenção de Intrusões (IDS/IPS): Tecnologias que monitoram atividades em redes e sistemas para identificar e responder a possíveis ameaças ou intrusões.
+•  Criptografia: Técnicas de codificação de dados que garantem a confidencialidade e integridade das informações, tornando-as ilegíveis para pessoas não autorizadas.
+
+
+2- Quanto à segurança da informação, como podemos definir a assinatura eletrônica?
+
+R: A assinatura eletrônica é um mecanismo que garante a autenticidade e integridade de documentos digitais. Ela valida a identidade do signatário, assegura que o documento não foi alterado e impede que o signatário negue a autoria. Pode variar em complexidade, desde simples cliques até métodos que utilizam certificados digitais, seguindo padrões legais e técnicos.
+
+3-  Diferencie cavalo de troia de chain letters.
+
+R: Cavalo de Troia: Malware disfarçado como software legítimo, que permite acesso não autorizado ao sistema.
+Chain Letters: Mensagens que solicitam o reenvio para outras pessoas, geralmente prometendo recompensas, e podem ser usadas para disseminar spam ou links maliciosos.
+
+
+
+4- Cite 3 responsabilidades dos controles internos e compliances.
+
+R:Garantia de Conformidade: Cumprir leis e regulamentos.
+Gestão de Riscos: Identificar e mitigar riscos.
+Proteção de Ativos: Proteger recursos e informações da organização.
